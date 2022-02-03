@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @TianmeiGerst
+- 👀 I’m interested in applied statistics focusing on environmental data/research.
+- 🌱 I’m currently working towards my masters in statistics.
